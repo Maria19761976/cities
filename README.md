@@ -64,3 +64,9 @@ npm run build    # Genera la build de producción
 npm run preview  # Previsualiza la build de producción
 npm run lint     # Ejecuta ESLint
 ```
+
+## Autores
+
+| Avatar | Usuario |
+|--------|---------|
+| ![Maria19761976](https://avatars.githubusercontent.com/u/243099421?v=4&s=40) | [@Maria19761976](https://github.com/Maria19761976) |
